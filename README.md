@@ -1,4 +1,4 @@
-#React Code Snippets
+# React Code Snippets
 
 React Code Snippets is a collection of reusable code snippets for React developers. It provides a variety of examples for common use cases, organized into categories such as Animation, Accessibility, Forms, Grids and Layouts, CSS Tricks, Styling, Hooks, Navigation, State Management, and Performance Optimization.
 
